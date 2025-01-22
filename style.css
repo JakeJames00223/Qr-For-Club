@@ -43,6 +43,10 @@ h2{
     color: white;
     transition: transform 0.3s ease-in ;
 }
+.myButton{
+    padding-left: 27px;
+    padding-right: 27px;
+}
 .buttons :hover{
     background-color:#d90429;
     animation: transform 4s forwards infinite;
